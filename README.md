@@ -5,6 +5,9 @@ Beaucoup de ressources sur cette liste sont des formations données par l'excell
 ## Organisation des fichiers
 - [Project Structure](https://slides.djnavarro.net/project-structure/) par Danielle Navarro
 - [Les formats de documents et les backup](https://youtu.be/_IqJ52Hn_yk) par Pascal Martinolli
+- [Organizing files](https://help.osf.io/hc/en-us/articles/360019738994-Organizing-files) par Sara Bowman
+- [How to make a data dictionnary](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) par Open Science Framework
+- [File naming](https://help.osf.io/hc/en-us/articles/360019931113-File-naming) par Sara Bowman
 
 ## Gestion de projet
 - [Gérer un cahier de recherche](https://youtu.be/lv_Fs4JszEs) par Pascal Martinolli
