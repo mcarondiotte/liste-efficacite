@@ -28,3 +28,4 @@ Beaucoup de ressources sur cette liste sont des formations données par l'excell
 - [Wikidata pour la recherche](https://youtu.be/BKmuCR8UJSo) par Pascal Martinolli
 - [Bloguer sur son sujet de recherche](https://youtu.be/m2E9kpLCPXY) par Pascal Martinolli
 - [Maîtriser les alertes et la veille](https://youtu.be/8PSkFkXXFrI) par Pascal Martinolli
+- [evil.R](https://github.com/romainfrancois/evil.R) par Romain François
