@@ -22,6 +22,9 @@ Beaucoup de ressources sur cette liste sont des formations données par l'excell
 - [Créer des documents de présentation avec RMarkdown](https://youtu.be/TdmOqMyPhgw) par Caroline Patenaude
 - [Zotero: gérer sa bibliothèque de références](https://youtu.be/lI9OyvOEv4g) par Pascal Martinolli
 
+## Rapporter des résultats
+- [bayestestR: Reporting guidelines](https://cran.r-project.org/web/packages/bayestestR/vignettes/guidelines.html) par D. Makowski,  M. S. Ben-Shachar et  D. Lüdecke.
+
 ## Divers
 - [Augmenter sa visibilité sur le web : profils ORCID, Publons, Dimensions…](https://youtu.be/1LFzAlaAaj4) par Pascal Martinolli
 - [La reproductibilité de la recherche: Enjeux et bonnes pratiques](https://youtu.be/WVG0GsxY0X8) par Caroline Patenaude
